@@ -8,9 +8,10 @@ namespace Nerd
         static void Main(string[] args)
         {
             Console.WriteLine("Collections ");
+            UseDictionary();
 
             static void UseDictionary(){
-                
+
                 Dictionary<string, Person> peopleA = new Dictionary<string, Person>();
 
                 peopleA.Add("Bryon", new Person {FirstName = "Brian", LastName = "Student", Age =18 });
@@ -26,6 +27,9 @@ namespace Nerd
                     { "Greg", new Person {FirstName = "Greg", LastName = "Student", Age =18 }},
                     { "Sayngeun", new Person {FirstName = "Sayngeun", LastName = "Student", Age =18 }}
                 };
+
+                Person sayngeun = peopleB["Sayngeun"];
+                Console.WriteLine(sayngeun);
 
             }
 /*
