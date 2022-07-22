@@ -1,0 +1,15 @@
+C:\Users\josep\Documents\Important_backed up to NAS 1-13-2022\IVC\Data struct\Upcoming Assignments\Data Struct VS Code\Nerd\bin\Debug\net6.0\Nerd.exe
+C:\Users\josep\Documents\Important_backed up to NAS 1-13-2022\IVC\Data struct\Upcoming Assignments\Data Struct VS Code\Nerd\bin\Debug\net6.0\Nerd.deps.json
+C:\Users\josep\Documents\Important_backed up to NAS 1-13-2022\IVC\Data struct\Upcoming Assignments\Data Struct VS Code\Nerd\bin\Debug\net6.0\Nerd.runtimeconfig.json
+C:\Users\josep\Documents\Important_backed up to NAS 1-13-2022\IVC\Data struct\Upcoming Assignments\Data Struct VS Code\Nerd\bin\Debug\net6.0\Nerd.dll
+C:\Users\josep\Documents\Important_backed up to NAS 1-13-2022\IVC\Data struct\Upcoming Assignments\Data Struct VS Code\Nerd\bin\Debug\net6.0\Nerd.pdb
+C:\Users\josep\Documents\Important_backed up to NAS 1-13-2022\IVC\Data struct\Upcoming Assignments\Data Struct VS Code\Nerd\obj\Debug\net6.0\Nerd.csproj.AssemblyReference.cache
+C:\Users\josep\Documents\Important_backed up to NAS 1-13-2022\IVC\Data struct\Upcoming Assignments\Data Struct VS Code\Nerd\obj\Debug\net6.0\Nerd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\Documents\Important_backed up to NAS 1-13-2022\IVC\Data struct\Upcoming Assignments\Data Struct VS Code\Nerd\obj\Debug\net6.0\Nerd.AssemblyInfoInputs.cache
+C:\Users\josep\Documents\Important_backed up to NAS 1-13-2022\IVC\Data struct\Upcoming Assignments\Data Struct VS Code\Nerd\obj\Debug\net6.0\Nerd.AssemblyInfo.cs
+C:\Users\josep\Documents\Important_backed up to NAS 1-13-2022\IVC\Data struct\Upcoming Assignments\Data Struct VS Code\Nerd\obj\Debug\net6.0\Nerd.csproj.CoreCompileInputs.cache
+C:\Users\josep\Documents\Important_backed up to NAS 1-13-2022\IVC\Data struct\Upcoming Assignments\Data Struct VS Code\Nerd\obj\Debug\net6.0\Nerd.dll
+C:\Users\josep\Documents\Important_backed up to NAS 1-13-2022\IVC\Data struct\Upcoming Assignments\Data Struct VS Code\Nerd\obj\Debug\net6.0\refint\Nerd.dll
+C:\Users\josep\Documents\Important_backed up to NAS 1-13-2022\IVC\Data struct\Upcoming Assignments\Data Struct VS Code\Nerd\obj\Debug\net6.0\Nerd.pdb
+C:\Users\josep\Documents\Important_backed up to NAS 1-13-2022\IVC\Data struct\Upcoming Assignments\Data Struct VS Code\Nerd\obj\Debug\net6.0\Nerd.genruntimeconfig.cache
+C:\Users\josep\Documents\Important_backed up to NAS 1-13-2022\IVC\Data struct\Upcoming Assignments\Data Struct VS Code\Nerd\obj\Debug\net6.0\ref\Nerd.dll
